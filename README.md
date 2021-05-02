@@ -43,8 +43,8 @@ I would be happy if you star, fork and develop my projects to make them better.
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://discordpy.readthedocs.io" target="_blank"> <img src="https://i.imgur.com/x564386.png" alt="discordpy" width="40" heigth="40" /> </A>
-<a href="https://expressjs.com" target="_blank"> <img src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="37" heigth="37"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="40" /> </a> 
+<a href="https://pandas.pydata.org" target="_blank"> <img src="https://i.imgur.com/IRDPFrX.png" alt="pandas" width="37" heigth="37"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="43" height="43"/> </a> 
 </p>
 
