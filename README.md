@@ -18,8 +18,10 @@ I would be happy if you star, fork and develop my projects to make them better.
 <img src="https://i.imgur.com/mpGpzBc.png" align="left" />
 <a href="https://discord.com/users/754327007331876945"><img align="left" src="https://img.shields.io/badge/Discord-electromeow%233559-8EA1E1?style=for-the-badge&logo=discord" /> </a>
 </p>
-<p></p>
+
+<p>
 <h3 align="left">Languages:</h3>
+</p>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
