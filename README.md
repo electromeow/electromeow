@@ -23,7 +23,9 @@ I would be happy if you star, fork and develop my projects to make them better.
 <p>
 <a href="https://discord.com/users/754327007331876945"><img align="left" src="https://img.shields.io/badge/Discord-electromeow%233559-8EA1E1?style=for-the-badge&logo=discord" /> </a>
 </p>
-
+<p align="left">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1">
+</p>
 <h3>Languages:</h3>
 
 <p align="left"> 
