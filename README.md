@@ -12,22 +12,20 @@ I plan to study Computer Science/Software Engineering at the future.\
 I would be happy if you star, fork and develop my projects to make them better.
 
 <h3 align="left">Contact with me:</h3>
-<p align="left">
+<p>
 
 <p>
 <a href="https://stackoverflow.com/users/15478897/electromeow"><img align="left" src="https://img.shields.io/badge/Stack Overflow-electromeow-orange?style=for-the-badge&logo=stackoverflow" /></a>
 </p>
-<p>
-<img src="https://i.imgur.com/mpGpzBc.png" align="left" />
+<p align="left">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1">
 </p>
 <p>
 <a href="https://discord.com/users/754327007331876945"><img align="left" src="https://img.shields.io/badge/Discord-electromeow%233559-8EA1E1?style=for-the-badge&logo=discord" /> </a>
 </p>
-</p>
 
-<p>
-<h3 align="left">Languages:</h3>
-</p>
+<h3>Languages:</h3>
+
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
