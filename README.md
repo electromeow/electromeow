@@ -13,9 +13,11 @@ I would be happy if you star, fork and develop my projects to make them better.
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/15478897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="15478897" height="30" width="40" /></a>
-</p>
 
+<a href="https://stackoverflow.com/users/15478897/electromeow"><img align="left" src="https://img.shields.io/badge/Stack Overflow-electromeow-orange?style=for-the-badge&logo=stackoverflow" /></a>
+<a href="https://discord.com/users/754327007331876945"><img align="left" src="https://img.shields.io/badge/Discord-electromeow%233559-8EA1E1?style=for-the-badge" /> </a>
+</p>
+<p></p>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> </a> 
