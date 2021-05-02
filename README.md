@@ -15,7 +15,8 @@ I would be happy if you star, fork and develop my projects to make them better.
 <p align="left">
 
 <a href="https://stackoverflow.com/users/15478897/electromeow"><img align="left" src="https://img.shields.io/badge/Stack Overflow-electromeow-orange?style=for-the-badge&logo=stackoverflow" /></a>
-<a href="https://discord.com/users/754327007331876945"><img align="left" src="https://img.shields.io/badge/Discord-electromeow%233559-8EA1E1?style=for-the-badge" /> </a>
+<img src="https://i.imgur.com/mpGpzBc.png" align="left" />
+<a href="https://discord.com/users/754327007331876945"><img align="left" src="https://img.shields.io/badge/Discord-electromeow%233559-8EA1E1?style=for-the-badge&logo=discord" /> </a>
 </p>
 <p></p>
 <h3 align="left">Languages:</h3>
@@ -34,7 +35,7 @@ I would be happy if you star, fork and develop my projects to make them better.
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://discordpy.readthedocs.io" target="_blank"> <img src="https://i.imgur.com/x564386.png" alt="discordpy" width="40" heigth="40" /> </A>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank"> <img src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="37" heigth="37"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="43" height="43"/> </a> 
 </p>
@@ -47,8 +48,8 @@ I would be happy if you star, fork and develop my projects to make them better.
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" widht="38" height="38" /> </a>
 <a href="https://atom.io" target="_blank"> <img src="https://icon-library.com/images/atom-icon-png/atom-icon-png-28.jpg" alt="atom" widht="43" height="43" /> </a>
 <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" widht="38" height="38" /> </a>
-<a href="https://prettier.io" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/prettier.svg" alt="prettier" width="46" height="46"/> </a>
-<a href="https://www.apple.com/macos" target="_blank"> <img src="https://seeklogo.com/images/M/mac-os-x-logo-C3B37FBB68-seeklogo.com.png" alt="macos" width="37" height="37"/> </a> 
+<a href="https://prettier.io" target="_blank"> <img src="https://prettier.io/icon.png" alt="prettier" width="40" height="40"/> </a>
+<a href="https://www.apple.com/macos" target="_blank"> <img src="https://i.imgur.com/hOs2jYd.png" alt="macos" width="37" height="37"/> </a> 
 <a href="https://www.kernel.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="37" height="37"/> </a> 
 
