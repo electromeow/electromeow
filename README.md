@@ -1,5 +1,9 @@
 # Hi 👋, I'm electromeow</h1>
 ### A back-end hobby developer from Turkey🇹🇷  mostly using Python but has knowledge on JS, TS and Java.</h3>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=electromeow&theme=dark&show_icons=true&locale=en&layout=compact" alt="electromeow" /></p>
+
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=electromeow&theme=dark&show_icons=true&locale=en" alt="electromeow"  ></p>
+
 I am 15 years old student who loves programming.\
 I am working on discord bots using [discord.py](https://discordpy.readthedocs.io) these days.\
 I am trying to learn [React](https://reactjs.org) and [TypeScript](https://typescriptlang.org).\
@@ -59,7 +63,4 @@ I would be happy if you star, fork and develop my projects to make them better.
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/788px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere" width="40" height="40"/> </a> 
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=electromeow&show_icons=true&locale=en&layout=compact" alt="electromeow" /></p>
-
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=electromeow&show_icons=true&locale=en" alt="electromeow"  ></p>
 
