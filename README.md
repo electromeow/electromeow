@@ -14,9 +14,15 @@ I would be happy if you star, fork and develop my projects to make them better.
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 
+<p>
 <a href="https://stackoverflow.com/users/15478897/electromeow"><img align="left" src="https://img.shields.io/badge/Stack Overflow-electromeow-orange?style=for-the-badge&logo=stackoverflow" /></a>
+</p>
+<p>
 <img src="https://i.imgur.com/mpGpzBc.png" align="left" />
+</p>
+<p>
 <a href="https://discord.com/users/754327007331876945"><img align="left" src="https://img.shields.io/badge/Discord-electromeow%233559-8EA1E1?style=for-the-badge&logo=discord" /> </a>
+</p>
 </p>
 
 <p>
