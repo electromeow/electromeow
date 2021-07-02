@@ -36,8 +36,10 @@ I would be happy if you star, fork and develop my projects to make them better.
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/></a>
-<a href="https://sass-lang.org/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40">
+<a href="https://www.w3.org/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="auto" height=40/></a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="30">
+<a href="https://rust-lang.org/" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7lW6kNc0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AwL9FvRCwlO8X0ysJ8348kw.png" alt="rust" width="auto" height="40">
+
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
